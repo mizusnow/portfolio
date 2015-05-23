@@ -9,7 +9,7 @@
 HTML5, CSS3, PHP, JavaScrip
 
 ## URL
-レンタルサーバーに上げてみました→http://yukimizumo.s602.xrea.com/port/
+レンタルサーバーに上げてみました→http://yukimizumo.s602.xrea.com/port/  
 iPhone5S（縦向き）でも見れますが、横向きには対応できていません…。
 
 ## comment
